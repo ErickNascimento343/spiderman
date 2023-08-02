@@ -1,0 +1,52 @@
+.btnSim{
+    background-color: red;
+    border-color: black;
+    font-style:italic;
+    color: white;
+    font-size: large;
+    margin-left: 200px;
+    cursor: pointer;
+    top: 60%;
+    left: 50%;
+    
+}
+
+.btnNao{
+    background-color: black;
+    border-color: black;
+    font-style:italic;
+    color: white;
+    font-size: large;
+    vertical-align:top;
+}
+
+.SpiderBackGround{
+    background: url("https://drive.google.com/uc?export=view&id=1JSIIz0VTYjjtz0kVTjo9jhX8da-nBLSx");
+    background-size: 100%;
+    width: 100%;
+    height: auto;
+}
+
+.header{
+color: white;
+font: bold;
+font-size: xx-large;
+position: absolute;
+    left: 40%;
+    width: 100px;
+    height: 100px;
+}
+
+body {
+    margin: 0;
+    width: 50px;
+    height: 40px;
+    overflow: hidden;
+  }
+
+  #btnNao{
+    position: absolute;
+    white-space: nowrap;
+    font-size: 2rem;
+  }
+ 
